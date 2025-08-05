@@ -12,6 +12,20 @@ Official website of DCS Learning Academy — an EdTech platform offering online 
 - 🚚 Delivery through Shiprocket
 - 🎯 Interactive and Responsive Design
 
+---
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./Homepage.png)
+
+### 📚 Books Section
+![Books Section](./Books.png)
+
+### 🌟 Testimonials
+![Testimonials](.Testimonials.png)
+
+### 🎓 Section
+![Section](./section.png)
 
 ---
 
